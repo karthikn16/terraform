@@ -126,6 +126,7 @@ Learn deeper into how workspaces streamline environment management. Comprehend t
 
 ## Day 7: Security and Advanced Topics
 
+
 #### HashiCorp Vault Overview
 
 Gain an overview of HashiCorp Vault, a powerful tool for secret management and data protection. Understand its significance in maintaining secure configurations.
